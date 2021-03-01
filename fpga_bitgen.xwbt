@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\Muhammet Sami Yavuz\Desktop\Projects\fatihyunusamifbga\fpga.ncd
+OUTFILE=C:\Users\Muhammet Sami Yavuz\Desktop\Projects\fatihyunusamifbga\fpga.bit
+FAMILY=Spartan3E
+PART=xc3s100e-4tq144
+WORKINGDIR=C:\Users\Muhammet Sami Yavuz\Desktop\Projects\fatihyunusamifbga
+LICENSE=WebPack
+USER_INFO=211819055_0_0_738
